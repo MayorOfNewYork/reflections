@@ -18,7 +18,12 @@ it allows us to choose which files we want to commit
 Q: What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+branches are useful for experimental changes into the code, they allow you to keep separate lines of
+commits leaving the original intact. 
+
 Q: How do the diagrams help you visualize the branch structure?
+
+because it is the visual representation of the hierarchy of the commits
 
 Q: What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
