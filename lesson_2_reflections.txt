@@ -28,5 +28,9 @@ because it is the visual representation of the hierarchy of the commits
 Q: What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+you create one commit that is the fusion of the latest commits of both branches
+we represent it as the two branches intersecting because the merged commit contains
+the changes of both branches.
+
 Q: What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
