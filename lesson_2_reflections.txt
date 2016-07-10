@@ -34,3 +34,7 @@ the changes of both branches.
 
 Q: What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+automatic merging is faster and less intensive, but it is not context sensitive and 
+may result in unwanted changes. It's good for smaller changes or changes that you
+know do not coincide (different files/ sections of code).
