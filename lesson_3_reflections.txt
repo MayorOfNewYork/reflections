@@ -29,12 +29,15 @@ use one instead of another?
 Q) What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    So you can track how many commits you are ahead of the last known state, as well
+	as using it as the head of the "remote branch" wherein are commited the changes
+	from the repository.
 
 Q) How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I could share my repository in Github and use Git's version control functionalities
+	to help me organize the project. It would be much easier.
 
 Q) When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
