@@ -42,4 +42,9 @@ and what would be harder?
 Q) When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you want to save the master branch for code that is operational and bug free
+	and want to keep exeperimental changes in seperate branches until they are proven
+	to work correctly. This approach, albeit slower than commiting everything to master,
+	is safer to do, as it makes it easier to keep track of the last state in which the
+	software was operational and avoids the danger of having to go through many commits
+	or using a commit that is only partly operational.
